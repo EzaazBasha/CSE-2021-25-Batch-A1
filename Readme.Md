@@ -1,6 +1,6 @@
 <h1>Btech Academic Major Project</h1><br>
 <h3>Title: Smart-Parking: A Real Time Parking Availabilty System</h3>
-<h6>Abstract</h6><br><br>
+<h6>Abstract</h6>
 <p>Smart Parking: Real-Time Parking Availability System is a web-based solution for managing 
 urban parking. This solution, which was created utilizing the MERN (MongoDB, Express.js, 
 React.js, Node.js) stack, tackles issues related to car management and parking congestion. It 
@@ -14,7 +14,7 @@ this project represents a step toward more intelligent and practical parking opt
 Registration, Web-Based Parking Solution, Secure Payment Gateway, Email Notifications, 
 Urban Mobility, Smart Cities.
 </p><br>
-<h6>Introduction</h6><br><br>
+<h6>Introduction</h6>
 <p>In todays urbanized world, managing parking spaces efficiently has become a significant 
 challenge due to the ever-increasing number of vehicles and limited parking infrastructure. 
 Searching for available parking spaces often leads to traffic congestion, fuel wastage, and 
